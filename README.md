@@ -17,4 +17,17 @@ query {
 }
  Bu sorgu, sunucudan tüm kitapları ve her bir kitabın başlık ve yazarını alır. 
  Yazdığım kod çalıştırıldığında buton kontrol paneli açılır. 16 adet mavi buton ve bu butonların her birinin içerisinde kırmızı renkli kare ikon bulunur. Bu butonlar pasif durumdadır. İstediğimiz kadar butona basabiliriz. Bastığımızda butonlar pembe rengini alır ve içerisindeki kare ikonlar ise yeşil rengini alır. Bu renkler butonun aktif olduğunu belirtir. Bastığımız (aktifleştirdiğimiz) her buton için hayali bir GraphQL şemasında bir mutation çalıştırılır. Bastığımız her bir buton için ayrı ayrı bir mutation custombuttonapp’de (run araç penceresi konsol çıktısı) yazar. Daha sonra birden çok buton aktif halde iken basılan başka bir buton da aktif ise, basılan buton dışındaki bütün aktif haldeki butonlar pasif hale gelir. Basılan ve diğerlerinin pasif hale gelmesini sağlayan buton aktif kalır.
- 
+
+
+https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/assets/126922628/feaaf199-4fdc-48d2-964c-9e763f552a3c
+
+
+https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/assets/126922628/e0ab07d9-c0b3-4a93-a077-7bc4e3a07c93
+
+
+
+
+
+
+
+
