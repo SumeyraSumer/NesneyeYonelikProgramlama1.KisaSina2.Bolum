@@ -24,8 +24,11 @@ https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/asset
 
 https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/assets/126922628/e0ab07d9-c0b3-4a93-a077-7bc4e3a07c93
 
+![nyp1](https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/assets/126922628/54a6cf52-390d-4027-9b5f-13a7a82953bc)
 
+![nyp2](https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/assets/126922628/ef8552e5-4537-4816-943e-fa1fe24d8ead)
 
+![basılan her buton için mutasyon](https://github.com/SumeyraSumer/NesneyeYonelikProgramlama1.KisaSina2.Bolum/assets/126922628/ea74e305-2e5a-4c46-9b19-2998b9b9d254)
 
 
 
